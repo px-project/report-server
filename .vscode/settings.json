@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "tslint.autoFixOnSave": true,
+    "tslint.enable": true
+}
